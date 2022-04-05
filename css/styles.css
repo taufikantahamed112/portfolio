@@ -1,0 +1,81 @@
+/* Body Section */
+body {
+  margin: 0;
+  padding: 5% 5%;
+  background-color: #e6ffff;
+}
+
+hr {
+  color: black;
+  size: 100%;
+  border-style: solid;
+  border-top: none;
+  border-width: medium;
+}
+
+h3 {
+  margin-bottom: 0;
+}
+
+.taufik-img {
+  width: 200px;
+  border-radius: 100%;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+.heading-text {
+  margin-left: 20px;
+}
+
+/* Achievement Section */
+.achievement-table {
+  text-align: center;
+  width: 100%;
+}
+
+/* Button Section */
+button {
+  background: #21e1e8;
+  background-image: linear-gradient(to bottom, #21e1e8, #2bb840);
+  border-radius: 8px;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  text-align: center;
+}
+
+button:hover {
+  background: #fa0000;
+  background-image: linear-gradient(to bottom, #ffff33, #00f541);
+  text-decoration: none;
+}
+
+.contact-button {
+  text-decoration: none;
+  text-align: center;
+  color: white;
+  font-weight: 500;
+}
+
+.contact-button:hover{
+  color: white;
+}
+
+.contact-button-div{
+  text-align: center;
+}
+
+.footer-link{
+  color: Blue;
+  text-decoration: none;
+  font-weight: 500;
+}
+.fb{
+  color: blue;
+}
+.bottom-container{
+  text-align: center;
+}
